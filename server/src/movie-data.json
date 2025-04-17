@@ -1,0 +1,676 @@
+[
+  {
+    "name": "Avatar: The Way of Water",
+    "duration": "192 min",
+    "releaseDate": "2022-12-16",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Sam Worthington", "role": "Jake Sully" },
+      { "actor": "Zoe Saldana", "role": "Neytiri" },
+      { "actor": "Sigourney Weaver", "role": "Kiri" }
+    ],
+    "boxOffice": {
+      "budget": "$460,000,000",
+      "revenue": "$2,320,000,000"
+    },
+    "rating": 7.8,
+    "coverImage": "https://image.url/avatar2-cover.jpg",
+    "description": "Jake Sully lives with his newfound family formed on the planet of Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their planet.",
+    "images": [
+      "https://image.url/avatar2-1.jpg",
+      "https://image.url/avatar2-2.jpg",
+      "https://image.url/avatar2-3.jpg"
+    ]
+  },
+  {
+    "name": "The Fabelmans",
+    "duration": "151 min",
+    "releaseDate": "2022-11-23",
+    "genres": ["Drama"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Gabriel LaBelle", "role": "Sammy Fabelman" },
+      { "actor": "Michelle Williams", "role": "Mitzi Fabelman" },
+      { "actor": "Paul Dano", "role": "Burt Fabelman" }
+    ],
+    "boxOffice": {
+      "budget": "$40,000,000",
+      "revenue": "$45,000,000"
+    },
+    "rating": 7.7,
+    "coverImage": "https://image.url/fabelmans-cover.jpg",
+    "description": "Growing up in post-World War II era Arizona, young Sammy Fabelman aspires to become a filmmaker as he reaches adolescence, but soon discovers a shattering family secret and explores how the power of films can help him see the truth.",
+    "images": [
+      "https://image.url/fabelmans-1.jpg",
+      "https://image.url/fabelmans-2.jpg",
+      "https://image.url/fabelmans-3.jpg"
+    ]
+  },
+  {
+    "name": "Glass Onion: A Knives Out Mystery",
+    "duration": "139 min",
+    "releaseDate": "2022-11-23",
+    "genres": ["Comedy", "Crime", "Drama"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Daniel Craig", "role": "Benoit Blanc" },
+      { "actor": "Edward Norton", "role": "Miles Bron" },
+      { "actor": "Janelle Monáe", "role": "Andi Brand" }
+    ],
+    "boxOffice": {
+      "budget": "$40,000,000",
+      "revenue": "$15,000,000"
+    },
+    "rating": 7.2,
+    "coverImage": "https://image.url/glassonion-cover.jpg",
+    "description": "Famed Southern detective Benoit Blanc travels to Greece for his latest case.",
+    "images": [
+      "https://image.url/glassonion-1.jpg",
+      "https://image.url/glassonion-2.jpg",
+      "https://image.url/glassonion-3.jpg"
+    ]
+  },
+  {
+    "name": "Nope",
+    "duration": "130 min",
+    "releaseDate": "2022-07-22",
+    "genres": ["Horror", "Mystery", "Sci-Fi"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Daniel Kaluuya", "role": "OJ Haywood" },
+      { "actor": "Keke Palmer", "role": "Emerald Haywood" },
+      { "actor": "Steven Yeun", "role": "Ricky 'Jupe' Park" }
+    ],
+    "boxOffice": {
+      "budget": "$68,000,000",
+      "revenue": "$171,000,000"
+    },
+    "rating": 6.8,
+    "coverImage": "https://image.url/nope-cover.jpg",
+    "description": "The residents of a lonely gulch in inland California bear witness to an uncanny and chilling discovery.",
+    "images": [
+      "https://image.url/nope-1.jpg",
+      "https://image.url/nope-2.jpg",
+      "https://image.url/nope-3.jpg"
+    ]
+  },
+  {
+    "name": "Babylon",
+    "duration": "189 min",
+    "releaseDate": "2022-12-23",
+    "genres": ["Drama", "History"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Brad Pitt", "role": "Jack Conrad" },
+      { "actor": "Margot Robbie", "role": "Nellie LaRoy" },
+      { "actor": "Diego Calva", "role": "Manny Torres" }
+    ],
+    "boxOffice": {
+      "budget": "$78,000,000",
+      "revenue": "$63,000,000"
+    },
+    "rating": 7.5,
+    "coverImage": "https://image.url/babylon-cover.jpg",
+    "description": "A tale of outsized ambition and outrageous excess, tracing the rise and fall of multiple characters during an era of unbridled decadence and depravity in early Hollywood.",
+    "images": [
+      "https://image.url/babylon-1.jpg",
+      "https://image.url/babylon-2.jpg",
+      "https://image.url/babylon-3.jpg"
+    ]
+  },
+  {
+    "name": "The Whale",
+    "duration": "117 min",
+    "releaseDate": "2022-12-09",
+    "genres": ["Drama"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Brendan Fraser", "role": "Charlie" },
+      { "actor": "Sadie Sink", "role": "Ellie" },
+      { "actor": "Hong Chau", "role": "Liz" }
+    ],
+    "boxOffice": {
+      "budget": "$3,000,000",
+      "revenue": "$54,000,000"
+    },
+    "rating": 8.1,
+    "coverImage": "https://image.url/whale-cover.jpg",
+    "description": "A reclusive, morbidly obese English teacher attempts to reconnect with his estranged teenage daughter.",
+    "images": [
+      "https://image.url/whale-1.jpg",
+      "https://image.url/whale-2.jpg",
+      "https://image.url/whale-3.jpg"
+    ]
+  },
+  {
+    "name": "Puss in Boots: The Last Wish",
+    "duration": "102 min",
+    "releaseDate": "2022-12-21",
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Antonio Banderas", "role": "Puss in Boots" },
+      { "actor": "Salma Hayek", "role": "Kitty Softpaws" },
+      { "actor": "Harvey Guillén", "role": "Perrito" }
+    ],
+    "boxOffice": {
+      "budget": "$90,000,000",
+      "revenue": "$442,000,000"
+    },
+    "rating": 7.9,
+    "coverImage": "https://image.url/pussinboots-cover.jpg",
+    "description": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+    "images": [
+      "https://image.url/pussinboots-1.jpg",
+      "https://image.url/pussinboots-2.jpg",
+      "https://image.url/pussinboots-3.jpg"
+    ]
+  },
+  {
+    "name": "Women Talking",
+    "duration": "104 min",
+    "releaseDate": "2022-12-23",
+    "genres": ["Drama"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Rooney Mara", "role": "Ona" },
+      { "actor": "Claire Foy", "role": "Salome" },
+      { "actor": "Jessie Buckley", "role": "Mariche" }
+    ],
+    "boxOffice": {
+      "budget": "$5,000,000",
+      "revenue": "$7,000,000"
+    },
+    "rating": 7.5,
+    "coverImage": "https://image.url/womentalking-cover.jpg",
+    "description": "In 2010, the women of an isolated religious community grapple with reconciling their reality with their faith.",
+    "images": [
+      "https://image.url/womentalking-1.jpg",
+      "https://image.url/womentalking-2.jpg",
+      "https://image.url/womentalking-3.jpg"
+    ]
+  },
+  {
+    "name": "The Menu",
+    "duration": "106 min",
+    "releaseDate": "2022-11-18",
+    "genres": ["Comedy", "Horror", "Thriller"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Ralph Fiennes", "role": "Chef Slowik" },
+      { "actor": "Anya Taylor-Joy", "role": "Margot" },
+      { "actor": "Nicholas Hoult", "role": "Tyler" }
+    ],
+    "boxOffice": {
+      "budget": "$30,000,000",
+      "revenue": "$79,000,000"
+    },
+    "rating": 7.3,
+    "coverImage": "https://image.url/menu-cover.jpg",
+    "description": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
+    "images": [
+      "https://image.url/menu-1.jpg",
+      "https://image.url/menu-2.jpg",
+      "https://image.url/menu-3.jpg"
+    ]
+  },
+  {
+    "name": "Triangle of Sadness",
+    "duration": "147 min",
+    "releaseDate": "2022-10-07",
+    "genres": ["Comedy", "Drama"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Harris Dickinson", "role": "Carl" },
+      { "actor": "Charlbi Dean", "role": "Yaya" },
+      { "actor": "Woody Harrelson", "role": "Captain" }
+    ],
+    "boxOffice": {
+      "budget": "$15,600,000",
+      "revenue": "$24,000,000"
+    },
+    "rating": 7.4,
+    "coverImage": "https://image.url/triangle-cover.jpg",
+    "description": "A cruise for the super-rich sinks, leaving survivors, including a fashion model celebrity couple, trapped on an island.",
+    "images": [
+      "https://image.url/triangle-1.jpg",
+      "https://image.url/triangle-2.jpg",
+      "https://image.url/triangle-3.jpg"
+    ]
+  },
+  {
+    "name": "Top Gun: Maverick",
+    "duration": "131 min",
+    "releaseDate": "2022-05-27",
+    "genres": ["Action", "Drama"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Tom Cruise", "role": "Capt. Pete 'Maverick' Mitchell" },
+      { "actor": "Miles Teller", "role": "Lt. Bradley 'Rooster' Bradshaw" },
+      { "actor": "Jennifer Connelly", "role": "Penny Benjamin" }
+    ],
+    "boxOffice": {
+      "budget": "$170,000,000",
+      "revenue": "$1,495,696,292"
+    },
+    "rating": 8.3,
+    "coverImage": "https://image.url/topgun-cover.jpg",
+    "description": "After more than thirty years of service as one of the Navy's top aviators, Pete 'Maverick' Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him.",
+    "images": [
+      "https://image.url/topgun-1.jpg",
+      "https://image.url/topgun-2.jpg",
+      "https://image.url/topgun-3.jpg"
+    ]
+  },
+  {
+    "name": "Doctor Strange in the Multiverse of Madness",
+    "duration": "126 min",
+    "releaseDate": "2022-05-06",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Benedict Cumberbatch", "role": "Dr. Stephen Strange" },
+      { "actor": "Elizabeth Olsen", "role": "Wanda Maximoff / Scarlet Witch" },
+      { "actor": "Xochitl Gomez", "role": "America Chavez" }
+    ],
+    "boxOffice": {
+      "budget": "$200,000,000",
+      "revenue": "$955,775,804"
+    },
+    "rating": 7.0,
+    "coverImage": "https://image.url/doctorstrange-cover.jpg",
+    "description": "Dr. Stephen Strange casts a forbidden spell that opens the doorway to the multiverse, including alternate versions of himself, whose threat to humanity is too great for the combined forces of Strange, Wong, and Wanda Maximoff.",
+    "images": [
+      "https://image.url/doctorstrange-1.jpg",
+      "https://image.url/doctorstrange-2.jpg",
+      "https://image.url/doctorstrange-3.jpg"
+    ]
+  },
+  {
+    "name": "Black Panther: Wakanda Forever",
+    "duration": "161 min",
+    "releaseDate": "2022-11-11",
+    "genres": ["Action", "Adventure", "Drama"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Letitia Wright", "role": "Shuri" },
+      { "actor": "Lupita Nyong'o", "role": "Nakia" },
+      { "actor": "Danai Gurira", "role": "Okoye" }
+    ],
+    "boxOffice": {
+      "budget": "$250,000,000",
+      "revenue": "$859,212,206"
+    },
+    "rating": 7.2,
+    "coverImage": "https://image.url/blackpanther2-cover.jpg",
+    "description": "The nation of Wakanda is pitted against intervening world powers as they mourn the loss of their king T'Challa.",
+    "images": [
+      "https://image.url/blackpanther2-1.jpg",
+      "https://image.url/blackpanther2-2.jpg",
+      "https://image.url/blackpanther2-3.jpg"
+    ]
+  },
+  {
+    "name": "Jurassic World Dominion",
+    "duration": "146 min",
+    "releaseDate": "2022-06-10",
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Chris Pratt", "role": "Owen Grady" },
+      { "actor": "Bryce Dallas Howard", "role": "Claire Dearing" },
+      { "actor": "Laura Dern", "role": "Ellie Sattler" }
+    ],
+    "boxOffice": {
+      "budget": "$185,000,000",
+      "revenue": "$1,001,978,080"
+    },
+    "rating": 5.7,
+    "coverImage": "https://image.url/jurassicworld-cover.jpg",
+    "description": "Four years after the destruction of Isla Nublar, dinosaurs now live--and hunt--alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
+    "images": [
+      "https://image.url/jurassicworld-1.jpg",
+      "https://image.url/jurassicworld-2.jpg",
+      "https://image.url/jurassicworld-3.jpg"
+    ]
+  },
+  {
+    "name": "Minions: The Rise of Gru",
+    "duration": "87 min",
+    "releaseDate": "2022-07-01",
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Steve Carell", "role": "Young Gru (voice)" },
+      { "actor": "Pierre Coffin", "role": "Minions (voice)" },
+      { "actor": "Taraji P. Henson", "role": "Belle Bottom (voice)" }
+    ],
+    "boxOffice": {
+      "budget": "$80,000,000",
+      "revenue": "$939,433,210"
+    },
+    "rating": 6.6,
+    "coverImage": "https://image.url/minions-cover.jpg",
+    "description": "The untold story of one twelve-year-old's dream to become the world's greatest supervillain.",
+    "images": [
+      "https://image.url/minions-1.jpg",
+      "https://image.url/minions-2.jpg",
+      "https://image.url/minions-3.jpg"
+    ]
+  },
+  {
+    "name": "Thor: Love and Thunder",
+    "duration": "119 min",
+    "releaseDate": "2022-07-08",
+    "genres": ["Action", "Adventure", "Comedy"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Chris Hemsworth", "role": "Thor" },
+      { "actor": "Natalie Portman", "role": "Jane Foster / Mighty Thor" },
+      { "actor": "Christian Bale", "role": "Gorr" }
+    ],
+    "boxOffice": {
+      "budget": "$250,000,000",
+      "revenue": "$760,928,081"
+    },
+    "rating": 6.3,
+    "coverImage": "https://image.url/thor4-cover.jpg",
+    "description": "Thor enlists the help of Valkyrie, Korg, and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct.",
+    "images": [
+      "https://image.url/thor4-1.jpg",
+      "https://image.url/thor4-2.jpg",
+      "https://image.url/thor4-3.jpg"
+    ]
+  },
+  {
+    "name": "The Batman",
+    "duration": "176 min",
+    "releaseDate": "2022-03-04",
+    "genres": ["Action", "Crime", "Drama"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Robert Pattinson", "role": "Bruce Wayne / Batman" },
+      { "actor": "Zoë Kravitz", "role": "Selina Kyle / Catwoman" },
+      { "actor": "Paul Dano", "role": "Edward Nashton / Riddler" }
+    ],
+    "boxOffice": {
+      "budget": "$200,000,000",
+      "revenue": "$770,945,583"
+    },
+    "rating": 7.9,
+    "coverImage": "https://image.url/thebatman-cover.jpg",
+    "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+    "images": [
+      "https://image.url/thebatman-1.jpg",
+      "https://image.url/thebatman-2.jpg",
+      "https://image.url/thebatman-3.jpg"
+    ]
+  },
+  {
+    "name": "Everything Everywhere All at Once",
+    "duration": "139 min",
+    "releaseDate": "2022-03-25",
+    "genres": ["Action", "Adventure", "Comedy"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Michelle Yeoh", "role": "Evelyn Wang" },
+      { "actor": "Stephanie Hsu", "role": "Joy Wang" },
+      { "actor": "Ke Huy Quan", "role": "Waymond Wang" }
+    ],
+    "boxOffice": {
+      "budget": "$25,000,000",
+      "revenue": "$141,200,000"
+    },
+    "rating": 8.0,
+    "coverImage": "https://image.url/everything-cover.jpg",
+    "description": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save the world by exploring other universes connecting with the lives she could have led.",
+    "images": [
+      "https://image.url/everything-1.jpg",
+      "https://image.url/everything-2.jpg",
+      "https://image.url/everything-3.jpg"
+    ]
+  },
+  {
+    "name": "Sonic the Hedgehog 2",
+    "duration": "122 min",
+    "releaseDate": "2022-04-08",
+    "genres": ["Animation", "Action", "Adventure"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Ben Schwartz", "role": "Sonic (voice)" },
+      { "actor": "Idris Elba", "role": "Knuckles (voice)" },
+      { "actor": "Jim Carrey", "role": "Dr. Robotnik" }
+    ],
+    "boxOffice": {
+      "budget": "$110,000,000",
+      "revenue": "$405,421,518"
+    },
+    "rating": 6.6,
+    "coverImage": "https://image.url/sonic2-cover.jpg",
+    "description": "When the manic Dr. Robotnik returns to Earth with a new ally, Knuckles the Echidna, Sonic and his new friend Tails are all that stand in their way.",
+    "images": [
+      "https://image.url/sonic2-1.jpg",
+      "https://image.url/sonic2-2.jpg",
+      "https://image.url/sonic2-3.jpg"
+    ]
+  },
+  {
+    "name": "The Avengers",
+    "duration": "143 min",
+    "releaseDate": "2012-05-04",
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Robert Downey Jr.", "role": "Tony Stark / Iron Man" },
+      { "actor": "Chris Evans", "role": "Steve Rogers / Captain America" },
+      {
+        "actor": "Scarlett Johansson",
+        "role": "Natasha Romanoff / Black Widow"
+      }
+    ],
+    "boxOffice": {
+      "budget": "$220,000,000",
+      "revenue": "$1,518,812,988"
+    },
+    "rating": 8.0,
+    "coverImage": "https://image.url/avengers-cover.jpg",
+    "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "images": [
+      "https://image.url/avengers-1.jpg",
+      "https://image.url/avengers-2.jpg",
+      "https://image.url/avengers-3.jpg"
+    ]
+  },
+  {
+    "name": "The Dark Knight Rises",
+    "duration": "164 min",
+    "releaseDate": "2012-07-20",
+    "genres": ["Action", "Drama", "Thriller"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Christian Bale", "role": "Bruce Wayne / Batman" },
+      { "actor": "Anne Hathaway", "role": "Selina Kyle / Catwoman" },
+      { "actor": "Tom Hardy", "role": "Bane" }
+    ],
+    "boxOffice": {
+      "budget": "$250,000,000",
+      "revenue": "$1,081,169,825"
+    },
+    "rating": 8.4,
+    "coverImage": "https://image.url/darkknightrises-cover.jpg",
+    "description": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+    "images": [
+      "https://image.url/darkknightrises-1.jpg",
+      "https://image.url/darkknightrises-2.jpg",
+      "https://image.url/darkknightrises-3.jpg"
+    ]
+  },
+  {
+    "name": "Frozen",
+    "duration": "102 min",
+    "releaseDate": "2013-11-27",
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Kristen Bell", "role": "Anna (voice)" },
+      { "actor": "Idina Menzel", "role": "Elsa (voice)" },
+      { "actor": "Josh Gad", "role": "Olaf (voice)" }
+    ],
+    "boxOffice": {
+      "budget": "$150,000,000",
+      "revenue": "$1,285,000,000"
+    },
+    "rating": 7.4,
+    "coverImage": "https://image.url/frozen-cover.jpg",
+    "description": "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna sets out to save the day with the help of a mountain man, his playful reindeer, and a snowman brought to life.",
+    "images": [
+      "https://image.url/frozen-1.jpg",
+      "https://image.url/frozen-2.jpg",
+      "https://image.url/frozen-3.jpg"
+    ]
+  },
+  {
+    "name": "Inception",
+    "duration": "148 min",
+    "releaseDate": "2010-07-16",
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Leonardo DiCaprio", "role": "Dom Cobb" },
+      { "actor": "Joseph Gordon-Levitt", "role": "Arthur" },
+      { "actor": "Ellen Page", "role": "Ariadne" }
+    ],
+    "boxOffice": {
+      "budget": "$160,000,000",
+      "revenue": "$836,848,102"
+    },
+    "rating": 8.8,
+    "coverImage": "https://image.url/inception-cover.jpg",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "images": [
+      "https://image.url/inception-1.jpg",
+      "https://image.url/inception-2.jpg",
+      "https://image.url/inception-3.jpg"
+    ]
+  },
+  {
+    "name": "Interstellar",
+    "duration": "169 min",
+    "releaseDate": "2014-11-07",
+    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Matthew McConaughey", "role": "Cooper" },
+      { "actor": "Anne Hathaway", "role": "Brand" },
+      { "actor": "Jessica Chastain", "role": "Murph" }
+    ],
+    "boxOffice": {
+      "budget": "$165,000,000",
+      "revenue": "$701,729,206"
+    },
+    "rating": 8.6,
+    "coverImage": "https://image.url/interstellar-cover.jpg",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "images": [
+      "https://image.url/interstellar-1.jpg",
+      "https://image.url/interstellar-2.jpg",
+      "https://image.url/interstellar-3.jpg"
+    ]
+  },
+  {
+    "name": "The Hunger Games",
+    "duration": "142 min",
+    "releaseDate": "2012-03-23",
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Jennifer Lawrence", "role": "Katniss Everdeen" },
+      { "actor": "Josh Hutcherson", "role": "Peeta Mellark" },
+      { "actor": "Liam Hemsworth", "role": "Gale Hawthorne" }
+    ],
+    "boxOffice": {
+      "budget": "$78,000,000",
+      "revenue": "$694,394,724"
+    },
+    "rating": 7.2,
+    "coverImage": "https://image.url/hungergames-cover.jpg",
+    "description": "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve districts of Panem are chosen at random to fight to the death.",
+    "images": [
+      "https://image.url/hungergames-1.jpg",
+      "https://image.url/hungergames-2.jpg",
+      "https://image.url/hungergames-3.jpg"
+    ]
+  },
+  {
+    "name": "Gravity",
+    "duration": "91 min",
+    "releaseDate": "2013-10-04",
+    "genres": ["Drama", "Sci-Fi", "Thriller"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Sandra Bullock", "role": "Dr. Ryan Stone" },
+      { "actor": "George Clooney", "role": "Matt Kowalski" }
+    ],
+    "boxOffice": {
+      "budget": "$100,000,000",
+      "revenue": "$723,192,705"
+    },
+    "rating": 7.7,
+    "coverImage": "https://image.url/gravity-cover.jpg",
+    "description": "Two astronauts work together to survive after an accident leaves them stranded in space.",
+    "images": [
+      "https://image.url/gravity-1.jpg",
+      "https://image.url/gravity-2.jpg",
+      "https://image.url/gravity-3.jpg"
+    ]
+  },
+  {
+    "name": "The Wolf of Wall Street",
+    "duration": "180 min",
+    "releaseDate": "2013-12-25",
+    "genres": ["Biography", "Comedy", "Crime"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Leonardo DiCaprio", "role": "Jordan Belfort" },
+      { "actor": "Jonah Hill", "role": "Donnie Azoff" },
+      { "actor": "Margot Robbie", "role": "Naomi Lapaglia" }
+    ],
+    "boxOffice": {
+      "budget": "$100,000,000",
+      "revenue": "$392,000,694"
+    },
+    "rating": 8.2,
+    "coverImage": "https://image.url/wolfofwallstreet-cover.jpg",
+    "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+    "images": [
+      "https://image.url/wolfofwallstreet-1.jpg",
+      "https://image.url/wolfofwallstreet-2.jpg",
+      "https://image.url/wolfofwallstreet-3.jpg"
+    ]
+  },
+  {
+    "name": "Mad Max: Fury Road",
+    "duration": "120 min",
+    "releaseDate": "2015-05-15",
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "languages": ["English"],
+    "casts": [
+      { "actor": "Tom Hardy", "role": "Max Rockatansky" },
+      { "actor": "Charlize Theron", "role": "Imperator Furiosa" },
+      { "actor": "Nicholas Hoult", "role": "Nux" }
+    ],
+    "boxOffice": {
+      "budget": "$150,000,000",
+      "revenue": "$374,709,080"
+    },
+    "rating": 8.1,
+    "coverImage": "https://image.url/madmax-cover.jpg",
+    "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the help of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
+    "images": [
+      "https://image.url/madmax-1.jpg",
+      "https://image.url/madmax-2.jpg",
+      "https://image.url/madmax-3.jpg"
+    ]
+  }
+]

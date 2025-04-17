@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+.no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+@layer components {
+    .list li {
+        @apply md:inline;
+    }
+    .list-items {
+        @apply cursor-pointer rounded-[3px] px-2 py-1 transition-all hover:bg-black hover:text-white;
+    }
+    .footer-list li {
+        @apply cursor-pointer rounded-sm pl-1 hover:bg-white hover:text-black;
+    }
+    .border-bites div:nth-child(-n + 2) {
+        @apply border-r-[1px] border-dashed border-slate-400;
+    }
+
+    .button-primary {
+        @apply mx-14 my-4 bg-blue-500 py-2 font-semibold;
+    }
+
+    .border-trending div:nth-child(1) {
+        @apply border-[1px] border-slate-400;
+    }
+    .text-heading {
+        @apply inline-block border-b-2 border-red-400 text-[0.9rem] font-semibold text-emerald-700;
+    }
+    .list-content li {
+        @apply mr-1 inline-block cursor-pointer rounded-3xl border-2 border-gray-500 px-3 py-1 pb-[6px] text-center font-semibold hover:bg-[rgba(179,178,178,0.82)];
+    }
+}

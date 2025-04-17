@@ -1,0 +1,22 @@
+{
+  "name": "fantasy-web-app",
+  "version": "1.0.0",
+  "scripts": {
+    "client": "npm run dev --prefix client",
+    "server": "npm run server --prefix server",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0",
+    "eslint-plugin-node": "^11.1.0",
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.3",
+    "prettier-plugin-tailwindcss": "^0.6.11",
+    "tailwindcss": "^3.4.17"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "react-router-dom": "^7.4.0",
+    "validator": "^13.12.0"
+  }
+}
